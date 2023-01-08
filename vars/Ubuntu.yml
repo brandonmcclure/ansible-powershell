@@ -3,14 +3,17 @@ powershell_libcurl_ver:
   focal: 4
   bionic: 4
   xenial: 3
+  jammy: 3
 powershell_libicu_ver:
   focal: 66
   bionic: 60
   xenial: 55
+  jammy: 55
 powershell_libssl_ver:
   focal: '1.1'
   bionic: '1.1'
   xenial: '1.0.0'
+  jammy: '1.0.0'
 powershell_os_pkgs:
   - libc6
   - libgcc1
